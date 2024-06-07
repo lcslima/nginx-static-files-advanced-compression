@@ -1,6 +1,6 @@
 # Nginx Best Compression POC
 
-This project demonstrates a proof of concept for configuring Nginx with optimal compression settings using Brotli and Gzip. The configuration ensures support for both HTTP/1.1 and HTTP/2 protocols.
+This project demonstrates a proof of concept for configuring Nginx with optimal compression settings using Brotli and Gzip.
 
 ## Project Structure
 
